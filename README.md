@@ -11,6 +11,9 @@ Ensembles of Data Augmented Multiviews](https://arxiv.org/abs/2302.08062)
 - opencv-python
 - tqdm
 
+# Note
+I don't completely follow the training hyparameter described in paper, because my mainly purpose is to validate the soft voting.
+
 # Data
 - __Download__   
 url: https://repository.deep-time.org/detail/1591288605468725250
