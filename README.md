@@ -42,6 +42,6 @@ python test.py -data fossil -weight weight
 
   | origin  | soft voting |
   | :-----: | :-----:     |
-  | 0.84 | 0.88 |  
+  | 0.8406 | 0.8844 |  
   
   The soft voting technique really increase the accuracy.
