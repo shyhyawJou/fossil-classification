@@ -3,6 +3,12 @@ Experiment the ensemble technique (soft voting) mentioned in the paper:
 [Fossil Image Identification using Deep Learning
 Ensembles of Data Augmented Multiviews](https://arxiv.org/abs/2302.08062)
 
+# Requirement
+- pandas
+- scikit-learn
+- scikit-image
+- opencv-python
+
 # Data
 - __Download__   
 url: https://repository.deep-time.org/detail/1591288605468725250
