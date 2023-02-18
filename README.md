@@ -8,6 +8,7 @@ Ensembles of Data Augmented Multiviews](https://arxiv.org/abs/2302.08062)
 - scikit-learn
 - scikit-image
 - opencv-python
+- tqdm
 
 # Data
 - __Download__   
