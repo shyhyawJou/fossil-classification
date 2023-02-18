@@ -4,6 +4,7 @@ Experiment the ensemble technique (soft voting) mentioned in the paper:
 Ensembles of Data Augmented Multiviews](https://arxiv.org/abs/2302.08062)
 
 # Requirement
+- pytorch
 - pandas
 - scikit-learn
 - scikit-image
